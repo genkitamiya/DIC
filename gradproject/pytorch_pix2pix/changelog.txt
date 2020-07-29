@@ -6,7 +6,7 @@ Implementation of WGAN-gp
 
 lines100-102: Call cal_gradient_penalty & backprop gradient penalty
 #wgan-gp
-self.loss_gp, gradients = networks.cal_gradient_penalty(self.netD,real_AB,fake_AB,self.device)
+self.loss_gp, gradients = networks.cal_gradient_penalty(self.netD,real_AB,fake_AB.detach(),self.device)
 self.loss_gp.backward(retain_graph=True)
 
 line105: Change loss function to integrate Wasserstein Dist

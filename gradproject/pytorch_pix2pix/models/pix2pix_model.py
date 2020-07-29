@@ -98,7 +98,7 @@ class Pix2PixModel(BaseModel):
         pred_real = self.netD(real_AB)
         self.loss_D_real = self.criterionGAN(pred_real, True)
         #wgan-gp
-        self.loss_gp, gradients = networks.cal_gradient_penalty(self.netD,real_AB,fake_AB,self.device)
+        self.loss_gp, gradients = networks.cal_gradient_penalty(self.netD,real_AB,fake_AB.detach(),self.device)
         self.loss_gp.backward(retain_graph=True)
         # combine loss and calculate gradients
         # self.loss_D = (self.loss_D_fake + self.loss_D_real) * 0.5
