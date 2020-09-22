@@ -50,7 +50,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint 13 ディープラーニングフレームワーク１](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint13.ipynb)
 - [Sprint 14 ディープラーニングフレームワーク２](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint14.ipynb)
 - [Sprint 15 論文読解入門](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint15.ipynb)
-- [Sprint 16 論文紹介](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint16.ipynb)
+- [Sprint 16 論文紹介](https://www.slideshare.net/secret/24xBSyxSIs1X92)
 - [Sprint 17 公開されている実装を動かす](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint17.ipynb)
 - [Sprint 18 データセット作成](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint18.ipynb)
 - [Sprint 19 セグメンテーション１](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint19.ipynb)
