@@ -8,8 +8,8 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 ## 学習課題一覧
 ◎学習した課題とその答案をnotebook形式でリンク先に保存してあります。<br>
 ◎グループワークと個人プロジェクトは別リポジトリにあるので、そちらをご参照ください。<br>
-- グループワーク：YOLOv3を活用した自動レジシステム（https://github.com/genkitamiya/bottle-detection）
-- 個人プロジェクト：キメライラストを実写化するcGANモデル（https://github.com/genkitamiya/realistic_chimera）
+- グループワーク：YOLOv3を活用した自動レジシステム　https://github.com/genkitamiya/bottle-detection
+- 個人プロジェクト：キメライラストを実写化するcGANモデル　https://github.com/genkitamiya/realistic_chimera
 
 ### 【事前学習】
 - Week 1 Python入門
