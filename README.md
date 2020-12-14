@@ -61,4 +61,4 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint 24 Seq2Seq](https://github.com/genkitamiya/diveintocode-ml/blob/master/sprint/sprint24.ipynb)
 ### 【Term 3】
 - [グループワーク 自動レジシステム開発](https://github.com/genkitamiya/bottle-detection)
-- [個人プロジェクト キメラ生成](https://github.com/genkitamiya/diveintocode-ml/tree/master/gradproject)
+- [個人プロジェクト キメラ生成](https://github.com/genkitamiya/realistic_chimera)
